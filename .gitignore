@@ -1,0 +1,18 @@
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+
+# 本地测试截图/临时产物
+tools/e2e-*.png
+tools/e2e-stuck.png
+tools/_lint_merged.html
+*.zip
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 凭据与环境
+.env*
+credentials*

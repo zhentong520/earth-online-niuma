@@ -1,0 +1,506 @@
+[
+  {
+    "file": "char-female-porcelain-lavender.jpg",
+    "from": "char-female-porcelain-lavender.png",
+    "dim": "1024x1024 -> 750x750",
+    "kb": "1259KB -> 109KB",
+    "type": "jpg"
+  },
+  {
+    "file": "char-male-porcelain-blue.jpg",
+    "from": "char-male-porcelain-blue.png",
+    "dim": "1024x1024 -> 750x750",
+    "kb": "1272KB -> 115KB",
+    "type": "jpg"
+  },
+  {
+    "file": "decor/arch/card-bg.png",
+    "from": "decor/arch/card-bg.png",
+    "dim": "1536x1024 -> 750x500",
+    "kb": "697KB -> 233KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/05-deco.jpg",
+    "from": "decor/skill/05-deco.png",
+    "dim": "1448x1086 -> 750x563",
+    "kb": "128KB -> 57KB",
+    "type": "jpg"
+  },
+  {
+    "file": "decor/skill/icons/achievement-star.png",
+    "from": "decor/skill/icons/achievement-star.png",
+    "dim": "207x204 -> 207x204",
+    "kb": "31KB -> 30KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/book.png",
+    "from": "decor/skill/icons/book.png",
+    "dim": "236x191 -> 236x191",
+    "kb": "39KB -> 38KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/briefcase.png",
+    "from": "decor/skill/icons/briefcase.png",
+    "dim": "248x192 -> 248x192",
+    "kb": "34KB -> 34KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/camera.png",
+    "from": "decor/skill/icons/camera.png",
+    "dim": "188x158 -> 188x158",
+    "kb": "32KB -> 37KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/code.png",
+    "from": "decor/skill/icons/code.png",
+    "dim": "225x188 -> 225x188",
+    "kb": "33KB -> 36KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/compass.png",
+    "from": "decor/skill/icons/compass.png",
+    "dim": "179x204 -> 179x204",
+    "kb": "37KB -> 37KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/diploma.png",
+    "from": "decor/skill/icons/diploma.png",
+    "dim": "197x129 -> 197x129",
+    "kb": "21KB -> 26KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/file.png",
+    "from": "decor/skill/icons/file.png",
+    "dim": "217x193 -> 217x193",
+    "kb": "26KB -> 26KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/fire.png",
+    "from": "decor/skill/icons/fire.png",
+    "dim": "233x204 -> 233x204",
+    "kb": "29KB -> 28KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/globe.png",
+    "from": "decor/skill/icons/globe.png",
+    "dim": "223x204 -> 223x204",
+    "kb": "42KB -> 40KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/laptop.png",
+    "from": "decor/skill/icons/laptop.png",
+    "dim": "191x149 -> 191x149",
+    "kb": "35KB -> 38KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/LEVEL-UP.png",
+    "from": "decor/skill/icons/LEVEL-UP.png",
+    "dim": "186x188 -> 186x188",
+    "kb": "40KB -> 40KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/lightbulb.png",
+    "from": "decor/skill/icons/lightbulb.png",
+    "dim": "191x191 -> 191x191",
+    "kb": "27KB -> 26KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/map.png",
+    "from": "decor/skill/icons/map.png",
+    "dim": "192x197 -> 192x197",
+    "kb": "43KB -> 42KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/mic.png",
+    "from": "decor/skill/icons/mic.png",
+    "dim": "256x192 -> 256x192",
+    "kb": "25KB -> 29KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/mountain.png",
+    "from": "decor/skill/icons/mountain.png",
+    "dim": "256x187 -> 256x187",
+    "kb": "37KB -> 38KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/notebook.png",
+    "from": "decor/skill/icons/notebook.png",
+    "dim": "223x186 -> 223x186",
+    "kb": "37KB -> 37KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/paintbrush.png",
+    "from": "decor/skill/icons/paintbrush.png",
+    "dim": "202x158 -> 202x158",
+    "kb": "24KB -> 23KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/palette.png",
+    "from": "decor/skill/icons/palette.png",
+    "dim": "190x152 -> 190x152",
+    "kb": "39KB -> 38KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/pie-chart.png",
+    "from": "decor/skill/icons/pie-chart.png",
+    "dim": "168x150 -> 168x150",
+    "kb": "33KB -> 33KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/plane.png",
+    "from": "decor/skill/icons/plane.png",
+    "dim": "249x203 -> 249x203",
+    "kb": "38KB -> 40KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/ruler.png",
+    "from": "decor/skill/icons/ruler.png",
+    "dim": "249x189 -> 249x189",
+    "kb": "29KB -> 27KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/school.png",
+    "from": "decor/skill/icons/school.png",
+    "dim": "239x201 -> 239x201",
+    "kb": "44KB -> 44KB",
+    "type": "png"
+  },
+  {
+    "file": "decor/skill/icons/star.png",
+    "from": "decor/skill/icons/star.png",
+    "dim": "223x190 -> 223x190",
+    "kb": "33KB -> 31KB",
+    "type": "png"
+  },
+  {
+    "file": "icons/arrow.jpg",
+    "from": "icons/arrow.png",
+    "dim": "135x181 -> 135x181",
+    "kb": "18KB -> 11KB",
+    "type": "jpg"
+  },
+  {
+    "file": "icons/book.jpg",
+    "from": "icons/book.png",
+    "dim": "178x150 -> 178x150",
+    "kb": "28KB -> 12KB",
+    "type": "jpg"
+  },
+  {
+    "file": "icons/calendar.jpg",
+    "from": "icons/calendar.png",
+    "dim": "146x162 -> 146x162",
+    "kb": "25KB -> 9KB",
+    "type": "jpg"
+  },
+  {
+    "file": "icons/chest.jpg",
+    "from": "icons/chest.png",
+    "dim": "180x157 -> 180x157",
+    "kb": "34KB -> 17KB",
+    "type": "jpg"
+  },
+  {
+    "file": "icons/home.jpg",
+    "from": "icons/home.png",
+    "dim": "181x168 -> 181x168",
+    "kb": "33KB -> 16KB",
+    "type": "jpg"
+  },
+  {
+    "file": "icons/palette.jpg",
+    "from": "icons/palette.png",
+    "dim": "201x204 -> 201x204",
+    "kb": "35KB -> 19KB",
+    "type": "jpg"
+  },
+  {
+    "file": "icons/refresh.jpg",
+    "from": "icons/refresh.png",
+    "dim": "196x177 -> 196x177",
+    "kb": "27KB -> 14KB",
+    "type": "jpg"
+  },
+  {
+    "file": "icons/sun.jpg",
+    "from": "icons/sun.png",
+    "dim": "204x206 -> 204x206",
+    "kb": "29KB -> 17KB",
+    "type": "jpg"
+  },
+  {
+    "file": "preset/bg/background_01.jpg",
+    "from": "preset/bg/background_01.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "1582KB -> 145KB",
+    "type": "jpg"
+  },
+  {
+    "file": "preset/bg/background_02.jpg",
+    "from": "preset/bg/background_02.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "1563KB -> 125KB",
+    "type": "jpg"
+  },
+  {
+    "file": "preset/bg/background_03.jpg",
+    "from": "preset/bg/background_03.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "1601KB -> 117KB",
+    "type": "jpg"
+  },
+  {
+    "file": "preset/bg/background_04.jpg",
+    "from": "preset/bg/background_04.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "1574KB -> 126KB",
+    "type": "jpg"
+  },
+  {
+    "file": "preset/bg/background_05.jpg",
+    "from": "preset/bg/background_05.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "1714KB -> 145KB",
+    "type": "jpg"
+  },
+  {
+    "file": "preset/char/character_01.png",
+    "from": "preset/char/character_01.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "458KB -> 172KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_02.png",
+    "from": "preset/char/character_02.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "514KB -> 196KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_03.png",
+    "from": "preset/char/character_03.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "478KB -> 186KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_04.png",
+    "from": "preset/char/character_04.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "558KB -> 212KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_05.png",
+    "from": "preset/char/character_05.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "481KB -> 182KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_08.png",
+    "from": "preset/char/character_08.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "570KB -> 224KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_09.png",
+    "from": "preset/char/character_09.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "487KB -> 187KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_10.png",
+    "from": "preset/char/character_10.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "496KB -> 191KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_12.png",
+    "from": "preset/char/character_12.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "529KB -> 206KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_14.png",
+    "from": "preset/char/character_14.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "537KB -> 210KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_17.png",
+    "from": "preset/char/character_17.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "513KB -> 195KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_18.png",
+    "from": "preset/char/character_18.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "549KB -> 206KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_19.png",
+    "from": "preset/char/character_19.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "446KB -> 170KB",
+    "type": "png"
+  },
+  {
+    "file": "preset/char/character_22.png",
+    "from": "preset/char/character_22.png",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "495KB -> 194KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/author-illustration-tp.png",
+    "from": "ui/author-illustration-tp.png",
+    "dim": "1170x1106 -> 750x709",
+    "kb": "1230KB -> 573KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/cta-button.png",
+    "from": "ui/cta-button.png",
+    "dim": "1200x220 -> 750x138",
+    "kb": "6KB -> 7KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/demo-char.jpg",
+    "from": "ui/demo-char.jpg",
+    "dim": "1254x1254 -> 750x750",
+    "kb": "303KB -> 691KB",
+    "type": "jpg"
+  },
+  {
+    "file": "ui/form-frame.png",
+    "from": "ui/form-frame.png",
+    "dim": "1080x1400 -> 750x972",
+    "kb": "15KB -> 18KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/logo.png",
+    "from": "ui/logo.png",
+    "dim": "1536x1024 -> 750x500",
+    "kb": "2167KB -> 370KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/btn-learn.png",
+    "from": "ui/panel/btn-learn.png",
+    "dim": "1064x387 -> 750x273",
+    "kb": "421KB -> 224KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/btn-record.png",
+    "from": "ui/panel/btn-record.png",
+    "dim": "1042x387 -> 750x279",
+    "kb": "414KB -> 226KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/card-bg.png",
+    "from": "ui/panel/card-bg.png",
+    "dim": "1536x1024 -> 750x500",
+    "kb": "1964KB -> 303KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/cat-sticker.png",
+    "from": "ui/panel/cat-sticker.png",
+    "dim": "248x161 -> 248x161",
+    "kb": "38KB -> 37KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/flower-corner-tl.png",
+    "from": "ui/panel/flower-corner-tl.png",
+    "dim": "158x155 -> 158x155",
+    "kb": "23KB -> 21KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/frame-closed-cream.png",
+    "from": "ui/panel/frame-closed-cream.png",
+    "dim": "257x170 -> 257x170",
+    "kb": "42KB -> 41KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/frame-cream-text.png",
+    "from": "ui/panel/frame-cream-text.png",
+    "dim": "290x52 -> 290x52",
+    "kb": "14KB -> 13KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/frame-thin-cream-2.png",
+    "from": "ui/panel/frame-thin-cream-2.png",
+    "dim": "306x70 -> 306x70",
+    "kb": "19KB -> 19KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/paperclip.png",
+    "from": "ui/panel/paperclip.png",
+    "dim": "90x94 -> 90x94",
+    "kb": "8KB -> 7KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/sparkle-trio.png",
+    "from": "ui/panel/sparkle-trio.png",
+    "dim": "104x124 -> 104x124",
+    "kb": "7KB -> 6KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/panel/tape-strip.png",
+    "from": "ui/panel/tape-strip.png",
+    "dim": "129x75 -> 129x75",
+    "kb": "7KB -> 7KB",
+    "type": "png"
+  },
+  {
+    "file": "ui/splash-bg.jpg",
+    "from": "ui/splash-bg.png",
+    "dim": "1080x1920 -> 750x1333",
+    "kb": "3050KB -> 326KB",
+    "type": "jpg"
+  }
+]
